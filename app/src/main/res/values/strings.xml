@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">FAISAL AHMED</string>
+    <string name="idd">"@iamtomriddle"</string>
+    <string name="who">Bio</string>
+    <string name="im">Undergrad student, Coder, and Developer. <i>Philosophic about the <b>whys</b> of life, and poetic about the <b>hows</b>. </i></string>
+    <string name="in">Interests</string>
+    <string name="inter">My interests , though largely revolving around <b>code</b> and <b>programming</b>, also include <i>singing</i>, playing the <i>guitar</i> and being <b>polemic</b> about life and its unjust ways, using words and write ups,of course.</string>
+    <string name="sto">My Story</string>
+    <string name="mys">I am an undergraduate <b>engineering</b> student from an average(<i>read 3rd tier</i>) institution in/around Delhi. Although, I have now, started getting over the lamenting of being stuck nowhere in life, steadily building upon the options I have to achieve a <i>starry career</i> in <b>IT</b> and <b>Software</b>. My goal is to become a known in the Industry and tread along the lines of success, for it is of foremost importance to me to prove to my akin, <i>how important it is to follow thy own path.</i></string>
+    <string name="w">My Work</string>
+    <string name="work">As of now, nothing official. <i>Hope to break the duck, though.</i></string>
+    <string name="follow">Follow me on</string>
+    <string name="wrd">Words to live by</string>
+    <string name="words"><b><i>The final forming of a person\'s character lies in their own hands.</i></b>\n-ANNE FRANK.</string>
+
+
+    <string name="action_settings">Settings</string>
+</resources>
